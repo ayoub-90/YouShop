@@ -16,11 +16,11 @@ Overall, Youshop is a reliable and efficient ecommerce website, providing a seam
 # Demo
 * Sign In
 
-<img width="950" alt="admin products" src="C:\Users\ayoub\Downloads\git\connection page.png">
+<img width="950" alt="admin products" src="https://user-images.githubusercontent.com/84919952/236884004-839a085c-1a23-4a79-ba01-c6493f288d3d.png">
 
-*Sign Up
+* Sign Up
 
-<img width="950" alt="admin products" src="C:\Users\ayoub\Downloads\git\sign up.png">
+<img width="950" alt="admin products" src="https://user-images.githubusercontent.com/84919952/236884099-fbbe4c67-e5e9-4b5e-ab25-5d692a32af3c.png">
 
 * Backoffice
 
@@ -28,31 +28,31 @@ Overall, Youshop is a reliable and efficient ecommerce website, providing a seam
 
 * Home page 
 
-<img width="960" alt="Managing users interface" src="C:\Users\ayoub\Downloads\git\manage users admin.jpg">
+<img width="960" alt="Managing users interface" src="https://user-images.githubusercontent.com/84919952/236884211-49d1aacd-0cf9-4ecb-a81e-457a3ca9d51f.jpg">
 
 * Order page
 
-<img width="960" alt="Managing users interface" src="C:\Users\ayoub\Downloads\git\Order page admin.jpg">
+<img width="960" alt="Managing users interface" src="https://user-images.githubusercontent.com/84919952/236884297-1f373c93-0ad1-4973-8001-5146a242bbbc.png">
 
 * Add category
 
-<img width="960" alt="Managing users interface" src="C:\Users\ayoub\Downloads\git\add category admin.jpg">
+<img width="960" alt="Managing users interface" src="https://user-images.githubusercontent.com/84919952/236884386-7a703603-fea0-4176-bee6-a197ec8e3e8e.jpg">
 
-*Categories page
+* Categories page
 
-<img width="960" alt="Managing users interface" src="C:\Users\ayoub\Downloads\git\Categories.png">
+<img width="960" alt="Managing users interface" src="https://user-images.githubusercontent.com/84919952/236884507-bdfad720-1484-42d5-9054-4ab295b38b36.png">
 
 * Add Product page
 
-<img width="960" alt="Managing users interface" src="C:\Users\ayoub\Downloads\git\add product admin.jpg">
+<img width="960" alt="Managing users interface" src="https://user-images.githubusercontent.com/84919952/236884667-5c4dbbe3-2898-4ef2-8221-b125506d3d9b.jpg">
 
 * Product Page
 
-<img width="960" alt="Managing users interface" src="C:\Users\ayoub\Downloads\git\products page admin.jpg">
+<img width="960" alt="Managing users interface" src="https://user-images.githubusercontent.com/84919952/236883824-bc3824d9-a026-4b22-af61-c9a038f06621.jpg">
 
 * Orders Page
 
-<img width="960" alt="Managing users interface" src="C:\Users\ayoub\Downloads\git\orders page.png">
+<img width="960" alt="Managing users interface" src="https://user-images.githubusercontent.com/84919952/236884740-947c6609-5a82-4bd5-a674-37de169ddff4.png">
 
 * wishlist
 
@@ -60,15 +60,15 @@ Overall, Youshop is a reliable and efficient ecommerce website, providing a seam
 
 * Payement Page
 
-<img width="960" alt="wishlist page" src="C:\Users\ayoub\Downloads\git\payament page.png">
+<img width="960" alt="wishlist page" src="https://user-images.githubusercontent.com/84919952/236884842-e17e640a-e830-4e0a-8386-746aa2fab894.png">
 
 * Card page
 
-<img width="960" alt="wishlist page" src="C:\Users\ayoub\Downloads\git\card page.png">
+<img width="960" alt="wishlist page" src="https://user-images.githubusercontent.com/84919952/236884923-1b3b2c44-058f-4984-b722-8eb07df6b324.png">
 
 * Categories page
 
-<img width="960" alt="wishlist page" src="C:\Users\ayoub\Downloads\git\categories page.jpg">
+<img width="960" alt="wishlist page" src="https://user-images.githubusercontent.com/84919952/236884992-9828ecb7-f52c-4667-a74d-a1e182e2a0c5.jpg">
 
 # Getting started
 
